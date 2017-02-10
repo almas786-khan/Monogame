@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Almas Khan/Desktop/3rd semester/Object Oriented Gaming/FinalGameMonogame/AllInOne/Content/fonts/MyFont.spritefont</SourceFile>
+  <SourceTime>2016-11-28T17:16:56-05:00</SourceTime>
+  <DestFile>C:/Users/Almas Khan/Desktop/3rd semester/Object Oriented Gaming/FinalGameMonogame/AllInOne/Content/bin/Windows/fonts/MyFont.xnb</DestFile>
+  <DestTime>2017-02-10T10:49:24.9353549-05:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2016-03-30T02:36:08-04:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2016-03-30T02:36:08-04:00</ProcessorTime>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Almas Khan/Desktop/3rd semester/Object Oriented Gaming/FinalGameMonogame/AllInOne/Content/fonts/regularFont.spritefont</File>
+    <File>C:/Users/Almas Khan/Desktop/3rd semester/Object Oriented Gaming/FinalGameMonogame/AllInOne/Content/fonts/hilightFont.spritefont</File>
+    <File>C:/Users/Almas Khan/Desktop/3rd semester/Object Oriented Gaming/FinalGameMonogame/AllInOne/Content/images/helpImage.png</File>
+    <File>C:/Users/Almas Khan/Desktop/3rd semester/Object Oriented Gaming/FinalGameMonogame/AllInOne/Content/images/1.png</File>
+    <File>C:/Users/Almas Khan/Desktop/3rd semester/Object Oriented Gaming/FinalGameMonogame/AllInOne/Content/images/asteroid.png</File>
+    <File>C:/Users/Almas Khan/Desktop/3rd semester/Object Oriented Gaming/FinalGameMonogame/AllInOne/Content/images/Ball.png</File>
+    <File>C:/Users/Almas Khan/Desktop/3rd semester/Object Oriented Gaming/FinalGameMonogame/AllInOne/Content/images/Bground.png</File>
+    <File>C:/Users/Almas Khan/Desktop/3rd semester/Object Oriented Gaming/FinalGameMonogame/AllInOne/Content/images/EnemyBullet.png</File>
+    <File>C:/Users/Almas Khan/Desktop/3rd semester/Object Oriented Gaming/FinalGameMonogame/AllInOne/Content/images/explosion3.png</File>
+    <File>C:/Users/Almas Khan/Desktop/3rd semester/Object Oriented Gaming/FinalGameMonogame/AllInOne/Content/images/healthbar.png</File>
+    <File>C:/Users/Almas Khan/Desktop/3rd semester/Object Oriented Gaming/FinalGameMonogame/AllInOne/Content/fonts/MyFont.spritefont</File>
+    <File>C:/Users/Almas Khan/Desktop/3rd semester/Object Oriented Gaming/FinalGameMonogame/AllInOne/Content/images/enemy.png</File>
+    <File>C:/Users/Almas Khan/Desktop/3rd semester/Object Oriented Gaming/FinalGameMonogame/AllInOne/Content/images/gameover.png</File>
+    <File>C:/Users/Almas Khan/Desktop/3rd semester/Object Oriented Gaming/FinalGameMonogame/AllInOne/Content/images/player.png</File>
+    <File>C:/Users/Almas Khan/Desktop/3rd semester/Object Oriented Gaming/FinalGameMonogame/AllInOne/Content/images/playerR.png</File>
+    <File>C:/Users/Almas Khan/Desktop/3rd semester/Object Oriented Gaming/FinalGameMonogame/AllInOne/Content/images/die.png</File>
+    <File>C:/Users/Almas Khan/Desktop/3rd semester/Object Oriented Gaming/FinalGameMonogame/AllInOne/Content/images/2.png</File>
+    <File>C:/Users/Almas Khan/Desktop/3rd semester/Object Oriented Gaming/FinalGameMonogame/AllInOne/Content/images/bg.png</File>
+    <File>C:/Users/Almas Khan/Desktop/3rd semester/Object Oriented Gaming/FinalGameMonogame/AllInOne/Content/images/dieUpdated.png</File>
+    <File>C:/Users/Almas Khan/Desktop/3rd semester/Object Oriented Gaming/FinalGameMonogame/AllInOne/Content/images/level.png</File>
+    <File>C:/Users/Almas Khan/Desktop/3rd semester/Object Oriented Gaming/FinalGameMonogame/AllInOne/Content/images/space.png</File>
+    <File>C:/Users/Almas Khan/Desktop/3rd semester/Object Oriented Gaming/FinalGameMonogame/AllInOne/Content/images/face.png</File>
+    <File>C:/Users/Almas Khan/Desktop/3rd semester/Object Oriented Gaming/FinalGameMonogame/AllInOne/Content/images/bg1.png</File>
+    <File>C:/Users/Almas Khan/Desktop/3rd semester/Object Oriented Gaming/FinalGameMonogame/AllInOne/Content/images/namepage.png</File>
+    <File>C:/Users/Almas Khan/Desktop/3rd semester/Object Oriented Gaming/FinalGameMonogame/AllInOne/Content/images/scorepage.png</File>
+    <File>C:/Users/Almas Khan/Desktop/3rd semester/Object Oriented Gaming/FinalGameMonogame/AllInOne/Content/images/gameoverpage.png</File>
+    <File>C:/Users/Almas Khan/Desktop/3rd semester/Object Oriented Gaming/FinalGameMonogame/AllInOne/Content/sounds/bomb.wav</File>
+    <File>C:/Users/Almas Khan/Desktop/3rd semester/Object Oriented Gaming/FinalGameMonogame/AllInOne/Content/sounds/gunshot.wav</File>
+    <File>C:/Users/Almas Khan/Desktop/3rd semester/Object Oriented Gaming/FinalGameMonogame/AllInOne/Content/sounds/theme.mp3</File>
+    <File>C:/Users/Almas Khan/Desktop/3rd semester/Object Oriented Gaming/FinalGameMonogame/AllInOne/Content/images/howtoplay.png</File>
+    <File>C:/Users/Almas Khan/Desktop/3rd semester/Object Oriented Gaming/FinalGameMonogame/AllInOne/Content/images/help.png</File>
+    <File>C:/Users/Almas Khan/Desktop/3rd semester/Object Oriented Gaming/FinalGameMonogame/AllInOne/Content/sounds/epic1.mp3</File>
+    <File>C:/Users/Almas Khan/Desktop/3rd semester/Object Oriented Gaming/FinalGameMonogame/AllInOne/Content/images/bar.png</File>
+    <File>C:/Users/Almas Khan/Desktop/3rd semester/Object Oriented Gaming/FinalGameMonogame/AllInOne/Content/images/about.png</File>
+  </SourceFiles>
+</SourceFileCollection>

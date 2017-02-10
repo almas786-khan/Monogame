@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Almas Khan/Desktop/3rd semester/Object Oriented Gaming/FinalGameMonogame/AllInOne/Content/sounds/gunshot.wav</SourceFile>
+  <SourceTime>2016-11-28T10:48:56-05:00</SourceTime>
+  <DestFile>C:/Users/Almas Khan/Desktop/3rd semester/Object Oriented Gaming/FinalGameMonogame/AllInOne/Content/bin/Windows/sounds/gunshot.xnb</DestFile>
+  <DestTime>2017-02-10T10:49:26.5802605-05:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2016-03-30T02:36:08-04:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2016-03-30T02:36:08-04:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

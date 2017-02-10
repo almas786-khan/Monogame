@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Almas Khan/Desktop/3rd semester/Object Oriented Gaming/FinalGameMonogame/AllInOne/Content/sounds/theme.mp3</SourceFile>
+  <SourceTime>2016-11-26T12:22:42-05:00</SourceTime>
+  <DestFile>C:/Users/Almas Khan/Desktop/3rd semester/Object Oriented Gaming/FinalGameMonogame/AllInOne/Content/bin/Windows/sounds/theme.xnb</DestFile>
+  <DestTime>2017-02-10T10:49:29.2802235-05:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2016-03-30T02:36:08-04:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2016-03-30T02:36:08-04:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Users/Almas Khan/Desktop/3rd semester/Object Oriented Gaming/FinalGameMonogame/AllInOne/Content/bin/Windows/sounds/theme.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>

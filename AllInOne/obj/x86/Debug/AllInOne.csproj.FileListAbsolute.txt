@@ -1,0 +1,501 @@
+C:\Users\sahmed\Desktop\AllInOne\AllInOne\bin\Windows\x86\Debug\AllInOne.exe
+C:\Users\sahmed\Desktop\AllInOne\AllInOne\bin\Windows\x86\Debug\AllInOne.pdb
+C:\Users\sahmed\Desktop\AllInOne\AllInOne\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\sahmed\Desktop\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\sahmed\Desktop\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\sahmed\Desktop\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\sahmed\Desktop\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\sahmed\Desktop\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\sahmed\Desktop\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\sahmed\Desktop\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\sahmed\Desktop\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+C:\Users\sahmed\Desktop\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\sahmed\Desktop\AllInOne\AllInOne\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\sahmed\Desktop\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\sahmed\Desktop\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\sahmed\Desktop\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\sahmed\Desktop\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\sahmed\Desktop\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\sahmed\Desktop\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\sahmed\Desktop\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\sahmed\Desktop\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+C:\Users\sahmed\Desktop\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\sahmed\Desktop\AllInOne\AllInOne\obj\x86\Debug\AllInOne.csprojResolveAssemblyReference.cache
+C:\Users\sahmed\Desktop\AllInOne\AllInOne\obj\x86\Debug\AllInOne.exe
+C:\Users\sahmed\Desktop\AllInOne\AllInOne\obj\x86\Debug\AllInOne.pdb
+C:\Users\sahmed\Desktop\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\fonts\hilightFont.xnb
+C:\Users\sahmed\Desktop\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\fonts\regularFont.xnb
+C:\Users\sahmed\Desktop\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\Bat.xnb
+C:\Users\sahmed\Desktop\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\helpImage.xnb
+C:\Users\Almas Khan\Downloads\AllInOne\AllInOne\AllInOne\obj\x86\Debug\AllInOne.exe
+C:\Users\Almas Khan\Downloads\AllInOne\AllInOne\AllInOne\obj\x86\Debug\AllInOne.pdb
+C:\Users\Almas Khan\Downloads\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\fonts\hilightFont.xnb
+C:\Users\Almas Khan\Downloads\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\fonts\regularFont.xnb
+C:\Users\Almas Khan\Downloads\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\helpImage.xnb
+C:\Users\Almas Khan\Downloads\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\AllInOne.exe
+C:\Users\Almas Khan\Downloads\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\AllInOne.pdb
+C:\Users\Almas Khan\Downloads\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Almas Khan\Downloads\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Almas Khan\Downloads\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Almas Khan\Downloads\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Almas Khan\Downloads\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Almas Khan\Downloads\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Almas Khan\Downloads\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Almas Khan\Downloads\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Almas Khan\Downloads\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+C:\Users\Almas Khan\Downloads\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Almas Khan\Downloads\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Almas Khan\Downloads\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Almas Khan\Downloads\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Almas Khan\Downloads\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Almas Khan\Downloads\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Almas Khan\Downloads\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Almas Khan\Downloads\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Almas Khan\Downloads\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Almas Khan\Downloads\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+C:\Users\Almas Khan\Downloads\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Almas Khan\Downloads\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\fonts\MyFont.xnb
+C:\Users\Almas Khan\Downloads\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\1.xnb
+C:\Users\Almas Khan\Downloads\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\asteroid.xnb
+C:\Users\Almas Khan\Downloads\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\background.xnb
+C:\Users\Almas Khan\Downloads\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\Ball.xnb
+C:\Users\Almas Khan\Downloads\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\Bground.xnb
+C:\Users\Almas Khan\Downloads\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\EnemyBullet.xnb
+C:\Users\Almas Khan\Downloads\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\enemyship.xnb
+C:\Users\Almas Khan\Downloads\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\explosion3.xnb
+C:\Users\Almas Khan\Downloads\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\healthbar.xnb
+C:\Users\Almas Khan\Downloads\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\ship.xnb
+C:\Users\Almas Khan\Downloads\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\Untitled.xnb
+C:\Users\Almas Khan\Downloads\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\ship1.xnb
+C:\Users\Almas Khan\Downloads\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\enemy.xnb
+C:\Users\Almas Khan\Downloads\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\gameover.xnb
+C:\Users\Almas Khan\Downloads\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\player.xnb
+C:\Users\Almas Khan\Downloads\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\playerR.xnb
+C:\Users\Almas Khan\Downloads\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\Bat.xnb
+C:\Users\Almas Khan\Downloads\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\die.xnb
+C:\Users\Almas Khan\Downloads\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\2.xnb
+C:\Users\Almas Khan\Downloads\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\3.xnb
+C:\Users\Almas Khan\Downloads\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\new1.xnb
+C:\Users\Almas Khan\Downloads\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\bg.xnb
+C:\Users\Almas Khan\Downloads\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\dieUpdated.xnb
+C:\Users\Almas Khan\Downloads\AllInOne\AllInOne\AllInOne\obj\x86\Debug\AllInOne.csprojResolveAssemblyReference.cache
+C:\Users\Almas Khan\Desktop\APlus\AllInOne\AllInOne\obj\x86\Debug\AllInOne.exe
+C:\Users\Almas Khan\Desktop\APlus\AllInOne\AllInOne\obj\x86\Debug\AllInOne.pdb
+C:\Users\Almas Khan\Desktop\APlus\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\3.xnb
+C:\Users\Almas Khan\Desktop\APlus\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\fonts\hilightFont.xnb
+C:\Users\Almas Khan\Desktop\APlus\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\fonts\MyFont.xnb
+C:\Users\Almas Khan\Desktop\APlus\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\fonts\regularFont.xnb
+C:\Users\Almas Khan\Desktop\APlus\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\1.xnb
+C:\Users\Almas Khan\Desktop\APlus\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\2.xnb
+C:\Users\Almas Khan\Desktop\APlus\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\asteroid.xnb
+C:\Users\Almas Khan\Desktop\APlus\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\background.xnb
+C:\Users\Almas Khan\Desktop\APlus\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\Ball.xnb
+C:\Users\Almas Khan\Desktop\APlus\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\Bat.xnb
+C:\Users\Almas Khan\Desktop\APlus\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\bg.xnb
+C:\Users\Almas Khan\Desktop\APlus\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\Bground.xnb
+C:\Users\Almas Khan\Desktop\APlus\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\die.xnb
+C:\Users\Almas Khan\Desktop\APlus\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\dieUpdated.xnb
+C:\Users\Almas Khan\Desktop\APlus\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\enemy.xnb
+C:\Users\Almas Khan\Desktop\APlus\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\EnemyBullet.xnb
+C:\Users\Almas Khan\Desktop\APlus\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\enemyship.xnb
+C:\Users\Almas Khan\Desktop\APlus\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\explosion3.xnb
+C:\Users\Almas Khan\Desktop\APlus\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\gameover.xnb
+C:\Users\Almas Khan\Desktop\APlus\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\healthbar.xnb
+C:\Users\Almas Khan\Desktop\APlus\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\helpImage.xnb
+C:\Users\Almas Khan\Desktop\APlus\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\new1.xnb
+C:\Users\Almas Khan\Desktop\APlus\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\player.xnb
+C:\Users\Almas Khan\Desktop\APlus\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\playerR.xnb
+C:\Users\Almas Khan\Desktop\APlus\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\ship.xnb
+C:\Users\Almas Khan\Desktop\APlus\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\ship1.xnb
+C:\Users\Almas Khan\Desktop\APlus\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\Untitled.xnb
+C:\Users\Almas Khan\Desktop\APlus\AllInOne\AllInOne\bin\Windows\x86\Debug\AllInOne.exe
+C:\Users\Almas Khan\Desktop\APlus\AllInOne\AllInOne\bin\Windows\x86\Debug\AllInOne.pdb
+C:\Users\Almas Khan\Desktop\APlus\AllInOne\AllInOne\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Almas Khan\Desktop\APlus\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Almas Khan\Desktop\APlus\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Almas Khan\Desktop\APlus\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Almas Khan\Desktop\APlus\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Almas Khan\Desktop\APlus\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Almas Khan\Desktop\APlus\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Almas Khan\Desktop\APlus\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Almas Khan\Desktop\APlus\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+C:\Users\Almas Khan\Desktop\APlus\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Almas Khan\Desktop\APlus\AllInOne\AllInOne\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Almas Khan\Desktop\APlus\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Almas Khan\Desktop\APlus\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Almas Khan\Desktop\APlus\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Almas Khan\Desktop\APlus\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Almas Khan\Desktop\APlus\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Almas Khan\Desktop\APlus\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Almas Khan\Desktop\APlus\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Almas Khan\Desktop\APlus\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+C:\Users\Almas Khan\Desktop\APlus\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Almas Khan\Desktop\APlus\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\level.xnb
+C:\Users\Almas Khan\Desktop\APlus\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\space.xnb
+C:\Users\Almas Khan\Desktop\APlus\AllInOne\AllInOne\obj\x86\Debug\AllInOne.csprojResolveAssemblyReference.cache
+C:\Users\Almas Khan\Desktop\APlus\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\face.xnb
+C:\Users\Almas Khan\Desktop\APlus\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\bg1.xnb
+C:\Users\Almas Khan\Desktop\APlus\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\namepage.xnb
+C:\Users\Almas Khan\Desktop\APlus\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\scorepage.xnb
+C:\Users\Almas Khan\Desktop\APlus\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\gameoverpage.xnb
+C:\Users\Almas Khan\Desktop\APlus\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\sounds\bomb.xnb
+C:\Users\Almas Khan\Desktop\APlus\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\sounds\epic1.xnb
+C:\Users\Almas Khan\Desktop\APlus\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\sounds\gunshot.xnb
+C:\Users\Almas Khan\Desktop\APlus\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\sounds\theme.wma
+C:\Users\Almas Khan\Desktop\APlus\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\sounds\theme.xnb
+C:\Users\Almas Khan\Desktop\APlus\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\howtoplay.xnb
+C:\Users\Almas Khan\Desktop\APlus\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\help.xnb
+G:\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\3.xnb
+G:\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\background.xnb
+G:\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\Bat.xnb
+G:\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\enemyship.xnb
+G:\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\new1.xnb
+G:\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\ship.xnb
+G:\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\ship1.xnb
+G:\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\Untitled.xnb
+G:\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\fonts\hilightFont.xnb
+G:\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\fonts\MyFont.xnb
+G:\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\fonts\regularFont.xnb
+G:\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\1.xnb
+G:\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\2.xnb
+G:\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\asteroid.xnb
+G:\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\Ball.xnb
+G:\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\bg.xnb
+G:\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\bg1.xnb
+G:\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\Bground.xnb
+G:\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\die.xnb
+G:\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\dieUpdated.xnb
+G:\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\enemy.xnb
+G:\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\EnemyBullet.xnb
+G:\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\explosion3.xnb
+G:\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\face.xnb
+G:\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\gameover.xnb
+G:\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\gameoverpage.xnb
+G:\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\healthbar.xnb
+G:\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\help.xnb
+G:\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\helpImage.xnb
+G:\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\howtoplay.xnb
+G:\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\level.xnb
+G:\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\namepage.xnb
+G:\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\player.xnb
+G:\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\playerR.xnb
+G:\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\scorepage.xnb
+G:\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\space.xnb
+G:\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\sounds\bomb.xnb
+G:\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\sounds\epic1.xnb
+G:\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\sounds\gunshot.xnb
+G:\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\sounds\theme.wma
+G:\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\sounds\theme.xnb
+G:\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\AllInOne.exe
+G:\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\AllInOne.pdb
+G:\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\MonoGame.Framework.dll
+G:\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+G:\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.dll
+G:\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+G:\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+G:\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+G:\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+G:\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.XInput.dll
+G:\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+G:\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+G:\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\MonoGame.Framework.xml
+G:\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+G:\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.xml
+G:\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+G:\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+G:\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+G:\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+G:\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.XInput.xml
+G:\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+G:\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+G:\AllInOne\AllInOne\AllInOne\obj\x86\Debug\AllInOne.csprojResolveAssemblyReference.cache
+G:\AllInOne\AllInOne\AllInOne\obj\x86\Debug\AllInOne.exe
+G:\AllInOne\AllInOne\AllInOne\obj\x86\Debug\AllInOne.pdb
+G:\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\sounds\epic1.wma
+C:\Users\Almas Khan\Downloads\download (4)\AllInOne\AllInOne\AllInOne\obj\x86\Debug\AllInOne.exe
+C:\Users\Almas Khan\Downloads\download (4)\AllInOne\AllInOne\AllInOne\obj\x86\Debug\AllInOne.pdb
+C:\Users\Almas Khan\Downloads\download (4)\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\3.xnb
+C:\Users\Almas Khan\Downloads\download (4)\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\background.xnb
+C:\Users\Almas Khan\Downloads\download (4)\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\Bat.xnb
+C:\Users\Almas Khan\Downloads\download (4)\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\enemyship.xnb
+C:\Users\Almas Khan\Downloads\download (4)\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\new1.xnb
+C:\Users\Almas Khan\Downloads\download (4)\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\ship.xnb
+C:\Users\Almas Khan\Downloads\download (4)\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\ship1.xnb
+C:\Users\Almas Khan\Downloads\download (4)\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\Untitled.xnb
+C:\Users\Almas Khan\Downloads\download (4)\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\fonts\hilightFont.xnb
+C:\Users\Almas Khan\Downloads\download (4)\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\fonts\MyFont.xnb
+C:\Users\Almas Khan\Downloads\download (4)\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\fonts\regularFont.xnb
+C:\Users\Almas Khan\Downloads\download (4)\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\1.xnb
+C:\Users\Almas Khan\Downloads\download (4)\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\2.xnb
+C:\Users\Almas Khan\Downloads\download (4)\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\asteroid.xnb
+C:\Users\Almas Khan\Downloads\download (4)\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\Ball.xnb
+C:\Users\Almas Khan\Downloads\download (4)\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\bg.xnb
+C:\Users\Almas Khan\Downloads\download (4)\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\bg1.xnb
+C:\Users\Almas Khan\Downloads\download (4)\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\Bground.xnb
+C:\Users\Almas Khan\Downloads\download (4)\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\die.xnb
+C:\Users\Almas Khan\Downloads\download (4)\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\dieUpdated.xnb
+C:\Users\Almas Khan\Downloads\download (4)\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\enemy.xnb
+C:\Users\Almas Khan\Downloads\download (4)\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\EnemyBullet.xnb
+C:\Users\Almas Khan\Downloads\download (4)\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\explosion3.xnb
+C:\Users\Almas Khan\Downloads\download (4)\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\face.xnb
+C:\Users\Almas Khan\Downloads\download (4)\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\gameover.xnb
+C:\Users\Almas Khan\Downloads\download (4)\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\gameoverpage.xnb
+C:\Users\Almas Khan\Downloads\download (4)\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\healthbar.xnb
+C:\Users\Almas Khan\Downloads\download (4)\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\help.xnb
+C:\Users\Almas Khan\Downloads\download (4)\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\helpImage.xnb
+C:\Users\Almas Khan\Downloads\download (4)\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\howtoplay.xnb
+C:\Users\Almas Khan\Downloads\download (4)\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\level.xnb
+C:\Users\Almas Khan\Downloads\download (4)\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\namepage.xnb
+C:\Users\Almas Khan\Downloads\download (4)\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\player.xnb
+C:\Users\Almas Khan\Downloads\download (4)\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\playerR.xnb
+C:\Users\Almas Khan\Downloads\download (4)\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\scorepage.xnb
+C:\Users\Almas Khan\Downloads\download (4)\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\space.xnb
+C:\Users\Almas Khan\Downloads\download (4)\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\sounds\bomb.xnb
+C:\Users\Almas Khan\Downloads\download (4)\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\sounds\epic1.wma
+C:\Users\Almas Khan\Downloads\download (4)\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\sounds\epic1.xnb
+C:\Users\Almas Khan\Downloads\download (4)\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\sounds\gunshot.xnb
+C:\Users\Almas Khan\Downloads\download (4)\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\sounds\theme.wma
+C:\Users\Almas Khan\Downloads\download (4)\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\sounds\theme.xnb
+C:\Users\Almas Khan\Downloads\download (4)\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\AllInOne.exe
+C:\Users\Almas Khan\Downloads\download (4)\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\AllInOne.pdb
+C:\Users\Almas Khan\Downloads\download (4)\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Almas Khan\Downloads\download (4)\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Almas Khan\Downloads\download (4)\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Almas Khan\Downloads\download (4)\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Almas Khan\Downloads\download (4)\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Almas Khan\Downloads\download (4)\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Almas Khan\Downloads\download (4)\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Almas Khan\Downloads\download (4)\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Almas Khan\Downloads\download (4)\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+C:\Users\Almas Khan\Downloads\download (4)\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Almas Khan\Downloads\download (4)\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Almas Khan\Downloads\download (4)\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Almas Khan\Downloads\download (4)\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Almas Khan\Downloads\download (4)\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Almas Khan\Downloads\download (4)\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Almas Khan\Downloads\download (4)\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Almas Khan\Downloads\download (4)\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Almas Khan\Downloads\download (4)\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Almas Khan\Downloads\download (4)\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+C:\Users\Almas Khan\Downloads\download (4)\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Almas Khan\Downloads\download (4)\AllInOne\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\bar.xnb
+C:\Users\Almas Khan\Downloads\download (4)\AllInOne\AllInOne\AllInOne\obj\x86\Debug\AllInOne.csprojResolveAssemblyReference.cache
+C:\Users\Almas Khan\Desktop\AllInOne\AllInOne\obj\x86\Debug\AllInOne.exe
+C:\Users\Almas Khan\Desktop\AllInOne\AllInOne\obj\x86\Debug\AllInOne.pdb
+C:\Users\Almas Khan\Desktop\AllInOne\AllInOne\obj\x86\Debug\AllInOne.csprojResolveAssemblyReference.cache
+C:\Users\Almas Khan\Desktop\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\3.xnb
+C:\Users\Almas Khan\Desktop\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\background.xnb
+C:\Users\Almas Khan\Desktop\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\Bat.xnb
+C:\Users\Almas Khan\Desktop\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\enemyship.xnb
+C:\Users\Almas Khan\Desktop\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\new1.xnb
+C:\Users\Almas Khan\Desktop\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\ship.xnb
+C:\Users\Almas Khan\Desktop\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\ship1.xnb
+C:\Users\Almas Khan\Desktop\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\Untitled.xnb
+C:\Users\Almas Khan\Desktop\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\fonts\hilightFont.xnb
+C:\Users\Almas Khan\Desktop\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\fonts\MyFont.xnb
+C:\Users\Almas Khan\Desktop\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\fonts\regularFont.xnb
+C:\Users\Almas Khan\Desktop\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\1.xnb
+C:\Users\Almas Khan\Desktop\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\2.xnb
+C:\Users\Almas Khan\Desktop\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\about.xnb
+C:\Users\Almas Khan\Desktop\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\asteroid.xnb
+C:\Users\Almas Khan\Desktop\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\Ball.xnb
+C:\Users\Almas Khan\Desktop\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\bar.xnb
+C:\Users\Almas Khan\Desktop\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\bg.xnb
+C:\Users\Almas Khan\Desktop\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\bg1.xnb
+C:\Users\Almas Khan\Desktop\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\Bground.xnb
+C:\Users\Almas Khan\Desktop\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\die.xnb
+C:\Users\Almas Khan\Desktop\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\dieUpdated.xnb
+C:\Users\Almas Khan\Desktop\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\enemy.xnb
+C:\Users\Almas Khan\Desktop\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\EnemyBullet.xnb
+C:\Users\Almas Khan\Desktop\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\explosion3.xnb
+C:\Users\Almas Khan\Desktop\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\face.xnb
+C:\Users\Almas Khan\Desktop\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\gameover.xnb
+C:\Users\Almas Khan\Desktop\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\gameoverpage.xnb
+C:\Users\Almas Khan\Desktop\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\healthbar.xnb
+C:\Users\Almas Khan\Desktop\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\help.xnb
+C:\Users\Almas Khan\Desktop\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\helpImage.xnb
+C:\Users\Almas Khan\Desktop\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\howtoplay.xnb
+C:\Users\Almas Khan\Desktop\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\level.xnb
+C:\Users\Almas Khan\Desktop\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\namepage.xnb
+C:\Users\Almas Khan\Desktop\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\player.xnb
+C:\Users\Almas Khan\Desktop\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\playerR.xnb
+C:\Users\Almas Khan\Desktop\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\scorepage.xnb
+C:\Users\Almas Khan\Desktop\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\images\space.xnb
+C:\Users\Almas Khan\Desktop\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\sounds\bomb.xnb
+C:\Users\Almas Khan\Desktop\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\sounds\epic1.wma
+C:\Users\Almas Khan\Desktop\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\sounds\epic1.xnb
+C:\Users\Almas Khan\Desktop\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\sounds\gunshot.xnb
+C:\Users\Almas Khan\Desktop\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\sounds\theme.wma
+C:\Users\Almas Khan\Desktop\AllInOne\AllInOne\bin\Windows\x86\Debug\Content\sounds\theme.xnb
+C:\Users\Almas Khan\Desktop\AllInOne\AllInOne\bin\Windows\x86\Debug\AllInOne.exe.manifest
+C:\Users\Almas Khan\Desktop\AllInOne\AllInOne\bin\Windows\x86\Debug\AllInOne.application
+C:\Users\Almas Khan\Desktop\AllInOne\AllInOne\bin\Windows\x86\Debug\AllInOne.exe
+C:\Users\Almas Khan\Desktop\AllInOne\AllInOne\bin\Windows\x86\Debug\AllInOne.pdb
+C:\Users\Almas Khan\Desktop\AllInOne\AllInOne\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Almas Khan\Desktop\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Almas Khan\Desktop\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Almas Khan\Desktop\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Almas Khan\Desktop\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Almas Khan\Desktop\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Almas Khan\Desktop\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Almas Khan\Desktop\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Almas Khan\Desktop\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+C:\Users\Almas Khan\Desktop\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Almas Khan\Desktop\AllInOne\AllInOne\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Almas Khan\Desktop\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Almas Khan\Desktop\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Almas Khan\Desktop\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Almas Khan\Desktop\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Almas Khan\Desktop\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Almas Khan\Desktop\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Almas Khan\Desktop\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Almas Khan\Desktop\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+C:\Users\Almas Khan\Desktop\AllInOne\AllInOne\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Almas Khan\Desktop\AllInOne\AllInOne\obj\x86\Debug\AllInOne.exe.manifest
+C:\Users\Almas Khan\Desktop\AllInOne\AllInOne\obj\x86\Debug\AllInOne.application
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGame\AllInOne\obj\x86\Debug\AllInOne.exe
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGame\AllInOne\obj\x86\Debug\AllInOne.pdb
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGame\AllInOne\bin\Windows\x86\Debug\Content\images\3.xnb
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGame\AllInOne\bin\Windows\x86\Debug\Content\images\background.xnb
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGame\AllInOne\bin\Windows\x86\Debug\Content\images\Bat.xnb
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGame\AllInOne\bin\Windows\x86\Debug\Content\images\enemyship.xnb
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGame\AllInOne\bin\Windows\x86\Debug\Content\images\new1.xnb
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGame\AllInOne\bin\Windows\x86\Debug\Content\images\ship.xnb
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGame\AllInOne\bin\Windows\x86\Debug\Content\images\ship1.xnb
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGame\AllInOne\bin\Windows\x86\Debug\Content\images\Untitled.xnb
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGame\AllInOne\bin\Windows\x86\Debug\Content\fonts\hilightFont.xnb
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGame\AllInOne\bin\Windows\x86\Debug\Content\fonts\MyFont.xnb
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGame\AllInOne\bin\Windows\x86\Debug\Content\fonts\regularFont.xnb
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGame\AllInOne\bin\Windows\x86\Debug\Content\images\1.xnb
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGame\AllInOne\bin\Windows\x86\Debug\Content\images\2.xnb
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGame\AllInOne\bin\Windows\x86\Debug\Content\images\about.xnb
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGame\AllInOne\bin\Windows\x86\Debug\Content\images\asteroid.xnb
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGame\AllInOne\bin\Windows\x86\Debug\Content\images\Ball.xnb
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGame\AllInOne\bin\Windows\x86\Debug\Content\images\bar.xnb
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGame\AllInOne\bin\Windows\x86\Debug\Content\images\bg.xnb
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGame\AllInOne\bin\Windows\x86\Debug\Content\images\bg1.xnb
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGame\AllInOne\bin\Windows\x86\Debug\Content\images\Bground.xnb
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGame\AllInOne\bin\Windows\x86\Debug\Content\images\die.xnb
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGame\AllInOne\bin\Windows\x86\Debug\Content\images\dieUpdated.xnb
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGame\AllInOne\bin\Windows\x86\Debug\Content\images\enemy.xnb
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGame\AllInOne\bin\Windows\x86\Debug\Content\images\EnemyBullet.xnb
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGame\AllInOne\bin\Windows\x86\Debug\Content\images\explosion3.xnb
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGame\AllInOne\bin\Windows\x86\Debug\Content\images\face.xnb
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGame\AllInOne\bin\Windows\x86\Debug\Content\images\gameover.xnb
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGame\AllInOne\bin\Windows\x86\Debug\Content\images\gameoverpage.xnb
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGame\AllInOne\bin\Windows\x86\Debug\Content\images\healthbar.xnb
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGame\AllInOne\bin\Windows\x86\Debug\Content\images\help.xnb
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGame\AllInOne\bin\Windows\x86\Debug\Content\images\helpImage.xnb
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGame\AllInOne\bin\Windows\x86\Debug\Content\images\howtoplay.xnb
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGame\AllInOne\bin\Windows\x86\Debug\Content\images\level.xnb
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGame\AllInOne\bin\Windows\x86\Debug\Content\images\namepage.xnb
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGame\AllInOne\bin\Windows\x86\Debug\Content\images\player.xnb
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGame\AllInOne\bin\Windows\x86\Debug\Content\images\playerR.xnb
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGame\AllInOne\bin\Windows\x86\Debug\Content\images\scorepage.xnb
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGame\AllInOne\bin\Windows\x86\Debug\Content\images\space.xnb
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGame\AllInOne\bin\Windows\x86\Debug\Content\sounds\bomb.xnb
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGame\AllInOne\bin\Windows\x86\Debug\Content\sounds\epic1.wma
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGame\AllInOne\bin\Windows\x86\Debug\Content\sounds\epic1.xnb
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGame\AllInOne\bin\Windows\x86\Debug\Content\sounds\gunshot.xnb
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGame\AllInOne\bin\Windows\x86\Debug\Content\sounds\theme.wma
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGame\AllInOne\bin\Windows\x86\Debug\Content\sounds\theme.xnb
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGame\AllInOne\bin\Windows\x86\Debug\AllInOne.exe.manifest
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGame\AllInOne\bin\Windows\x86\Debug\AllInOne.application
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGame\AllInOne\bin\Windows\x86\Debug\AllInOne.exe
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGame\AllInOne\bin\Windows\x86\Debug\AllInOne.pdb
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGame\AllInOne\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGame\AllInOne\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGame\AllInOne\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGame\AllInOne\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGame\AllInOne\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGame\AllInOne\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGame\AllInOne\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGame\AllInOne\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGame\AllInOne\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGame\AllInOne\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGame\AllInOne\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGame\AllInOne\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGame\AllInOne\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGame\AllInOne\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGame\AllInOne\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGame\AllInOne\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGame\AllInOne\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGame\AllInOne\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGame\AllInOne\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGame\AllInOne\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGame\AllInOne\obj\x86\Debug\AllInOne.csprojResolveAssemblyReference.cache
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGame\AllInOne\obj\x86\Debug\AllInOne.exe.manifest
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGame\AllInOne\obj\x86\Debug\AllInOne.application
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGameMonogame\AllInOne\obj\x86\Debug\AllInOne.exe
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGameMonogame\AllInOne\obj\x86\Debug\AllInOne.pdb
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGameMonogame\AllInOne\bin\Windows\x86\Debug\Content\images\3.xnb
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGameMonogame\AllInOne\bin\Windows\x86\Debug\Content\images\background.xnb
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGameMonogame\AllInOne\bin\Windows\x86\Debug\Content\images\Bat.xnb
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGameMonogame\AllInOne\bin\Windows\x86\Debug\Content\images\enemyship.xnb
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGameMonogame\AllInOne\bin\Windows\x86\Debug\Content\images\new1.xnb
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGameMonogame\AllInOne\bin\Windows\x86\Debug\Content\images\ship.xnb
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGameMonogame\AllInOne\bin\Windows\x86\Debug\Content\images\ship1.xnb
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGameMonogame\AllInOne\bin\Windows\x86\Debug\Content\images\Untitled.xnb
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGameMonogame\AllInOne\bin\Windows\x86\Debug\Content\fonts\hilightFont.xnb
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGameMonogame\AllInOne\bin\Windows\x86\Debug\Content\fonts\MyFont.xnb
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGameMonogame\AllInOne\bin\Windows\x86\Debug\Content\fonts\regularFont.xnb
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGameMonogame\AllInOne\bin\Windows\x86\Debug\Content\images\1.xnb
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGameMonogame\AllInOne\bin\Windows\x86\Debug\Content\images\2.xnb
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGameMonogame\AllInOne\bin\Windows\x86\Debug\Content\images\about.xnb
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGameMonogame\AllInOne\bin\Windows\x86\Debug\Content\images\asteroid.xnb
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGameMonogame\AllInOne\bin\Windows\x86\Debug\Content\images\Ball.xnb
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGameMonogame\AllInOne\bin\Windows\x86\Debug\Content\images\bar.xnb
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGameMonogame\AllInOne\bin\Windows\x86\Debug\Content\images\bg.xnb
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGameMonogame\AllInOne\bin\Windows\x86\Debug\Content\images\bg1.xnb
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGameMonogame\AllInOne\bin\Windows\x86\Debug\Content\images\Bground.xnb
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGameMonogame\AllInOne\bin\Windows\x86\Debug\Content\images\die.xnb
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGameMonogame\AllInOne\bin\Windows\x86\Debug\Content\images\dieUpdated.xnb
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGameMonogame\AllInOne\bin\Windows\x86\Debug\Content\images\enemy.xnb
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGameMonogame\AllInOne\bin\Windows\x86\Debug\Content\images\EnemyBullet.xnb
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGameMonogame\AllInOne\bin\Windows\x86\Debug\Content\images\explosion3.xnb
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGameMonogame\AllInOne\bin\Windows\x86\Debug\Content\images\face.xnb
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGameMonogame\AllInOne\bin\Windows\x86\Debug\Content\images\gameover.xnb
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGameMonogame\AllInOne\bin\Windows\x86\Debug\Content\images\gameoverpage.xnb
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGameMonogame\AllInOne\bin\Windows\x86\Debug\Content\images\healthbar.xnb
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGameMonogame\AllInOne\bin\Windows\x86\Debug\Content\images\help.xnb
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGameMonogame\AllInOne\bin\Windows\x86\Debug\Content\images\helpImage.xnb
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGameMonogame\AllInOne\bin\Windows\x86\Debug\Content\images\howtoplay.xnb
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGameMonogame\AllInOne\bin\Windows\x86\Debug\Content\images\level.xnb
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGameMonogame\AllInOne\bin\Windows\x86\Debug\Content\images\namepage.xnb
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGameMonogame\AllInOne\bin\Windows\x86\Debug\Content\images\player.xnb
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGameMonogame\AllInOne\bin\Windows\x86\Debug\Content\images\playerR.xnb
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGameMonogame\AllInOne\bin\Windows\x86\Debug\Content\images\scorepage.xnb
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGameMonogame\AllInOne\bin\Windows\x86\Debug\Content\images\space.xnb
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGameMonogame\AllInOne\bin\Windows\x86\Debug\Content\sounds\bomb.xnb
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGameMonogame\AllInOne\bin\Windows\x86\Debug\Content\sounds\epic1.wma
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGameMonogame\AllInOne\bin\Windows\x86\Debug\Content\sounds\epic1.xnb
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGameMonogame\AllInOne\bin\Windows\x86\Debug\Content\sounds\gunshot.xnb
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGameMonogame\AllInOne\bin\Windows\x86\Debug\Content\sounds\theme.wma
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGameMonogame\AllInOne\bin\Windows\x86\Debug\Content\sounds\theme.xnb
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGameMonogame\AllInOne\bin\Windows\x86\Debug\AllInOne.exe.manifest
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGameMonogame\AllInOne\bin\Windows\x86\Debug\AllInOne.application
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGameMonogame\AllInOne\bin\Windows\x86\Debug\AllInOne.exe
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGameMonogame\AllInOne\bin\Windows\x86\Debug\AllInOne.pdb
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGameMonogame\AllInOne\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGameMonogame\AllInOne\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGameMonogame\AllInOne\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGameMonogame\AllInOne\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGameMonogame\AllInOne\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGameMonogame\AllInOne\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGameMonogame\AllInOne\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGameMonogame\AllInOne\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGameMonogame\AllInOne\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGameMonogame\AllInOne\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGameMonogame\AllInOne\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGameMonogame\AllInOne\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGameMonogame\AllInOne\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGameMonogame\AllInOne\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGameMonogame\AllInOne\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGameMonogame\AllInOne\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGameMonogame\AllInOne\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGameMonogame\AllInOne\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGameMonogame\AllInOne\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGameMonogame\AllInOne\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGameMonogame\AllInOne\obj\x86\Debug\AllInOne.csprojResolveAssemblyReference.cache
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGameMonogame\AllInOne\obj\x86\Debug\AllInOne.exe.manifest
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\FinalGameMonogame\AllInOne\obj\x86\Debug\AllInOne.application
