@@ -169,7 +169,7 @@ namespace AllInOne
                             Game1.sat = false;
                             gameState = 1;// gameover
                         }
-                        if (Score.playerScore == 200)
+                        if (Score.playerScore == 200 && ship.Health != 0)
                         {
                               gameState = 3; //complete level 1
                             
